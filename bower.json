@@ -4,6 +4,5 @@
 	"main":[
 		"js/bootstrap-dialog.js",
 		"css/bootstrap-dialog.css"
-	],
-	"source": "https://github.com/gzwenny/bootstrap3-dialog.git"
+	]
 }
