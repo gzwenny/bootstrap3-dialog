@@ -1,0 +1,9 @@
+{
+	"name":"bootstrap3-dialog",
+	"homepage": "https://github.com/nakupanda/bootstrap3-dialog",
+	"main":[
+		"js/bootstrap-dialog.js",
+		"css/bootstrap-dialog.css"
+	],
+	"source": "https://github.com/gzwenny/bootstrap3-dialog.git"
+}
